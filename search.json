@@ -1,23 +1,79 @@
 [
   {
+    "objectID": "tht.html",
+    "href": "tht.html",
+    "title": "Tang.ɢ̱wan – ḥačxwiqak – Tsig̱is Marine Protected Area",
+    "section": "",
+    "text": "The **Tang.ɢ̱wan – ḥačxwiqak – Tsig̱is Marine Protected Area* (TḥT MPA) is located in the Offshore Pacific Bioregion, and protects seamounts and hydrothermal vents. It overlaps the former Endeavour Hydrothermal Vents MPA, which was repealed upon the designation of the TḥT MPA. The EHV area now has stronger protections as part of this larger MPA.\n\n\n\n\n\n\nFurther reading\n\n\n\n\n\n\nEndeavour Hydrothermal Vents Marine Protected Area (MPA) annual report 2023 (pdf)\nBiophysical and Ecological Overview of the Offshore Pacific Area of Interest (AOI), CSAS Science Reponse 2019/011(pdf)\n\n\n\n\n\n\n\n A black smoker community in the former EHV MPA, with giant red tubeworms and squat lobsters. Image from Wikimedia Commons, license CC BY SA 2.0.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "sgaan_kinghlas.html",
+    "href": "sgaan_kinghlas.html",
+    "title": "SG̲áan K̲ínghlas-Bowie Seamount Marine Protected Area",
+    "section": "",
+    "text": "SG̲áan K̲ínghlas-Bowie Seamount Marine Protected Area\n\n\n\n\n\n\nFurther reading\n\n\n\n\n\n\nSG̲áan K̲ínghlas-Bowie Seamount Marine Protected Area (SK̲-B MPA) annual report 2023 (pdf)\nA Monitoring Framework for SG̲áan K̲ínghlas-Bowie Seamount Marine Protected Area, British Columbia, Canada\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "regional_info.html",
+    "href": "regional_info.html",
+    "title": "Summaries for BC EEZ subregions",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "gwaii_haanas.html",
+    "href": "gwaii_haanas.html",
+    "title": "Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site",
+    "section": "",
+    "text": "Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site is divided into three subregions for satellite monitoring."
+  },
+  {
+    "objectID": "gwaii_haanas.html#gwaii-haanas-east",
+    "href": "gwaii_haanas.html#gwaii-haanas-east",
+    "title": "Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site",
+    "section": "Gwaii Haanas East",
+    "text": "Gwaii Haanas East"
+  },
+  {
+    "objectID": "gwaii_haanas.html#gwaii-haanas-west",
+    "href": "gwaii_haanas.html#gwaii-haanas-west",
+    "title": "Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site",
+    "section": "Gwaii Haanas West",
+    "text": "Gwaii Haanas West"
+  },
+  {
+    "objectID": "gwaii_haanas.html#gwaii-haanas-south",
+    "href": "gwaii_haanas.html#gwaii-haanas-south",
+    "title": "Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site",
+    "section": "Gwaii Haanas South",
+    "text": "Gwaii Haanas South"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Satellite Monitoring in the Northeast Pacific",
+    "title": "Satellite sea surface temperature and chlorophyll-a in the Northeast Pacific",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "The ocean can be monitored at wide spatial scales using sensors on satellites. Satellites revisit much of the global ocean at least once per day, and data records now span decades. This allows scientists to look at long-term changes in the ocean. Satellite data can also be acquired from locations that cannot often be visited by ships, or autonomous sensors like gliders (see Ross et al. 2025) or Argo floats.\nSea surface temperature (SST) is one variable that satellites effectively measure, during both daytime and night-time. Night-time SST is often used for analysis over the longer term, as it does not have diurnal heating, or the daily effect of the sun warming the surface of the water. SST records are useful for monitoring ocean heat events like Marine Heatwaves (MHWs) (you can find more information and recent data for the Pacific region at this link).\nChlorophyll-a, another parameter that satellites effectively measure, is the dominant pigment in phytoplankton. Phytoplankton, tiny plants that are found throughout the ocean, provide food to thousands of marine species, and make a large proportion of the world’s oxygen through photosynthesis."
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "Satellite Monitoring in the Northeast Pacific",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "index.html#chl-a-and-sst-in-2025",
+    "href": "index.html#chl-a-and-sst-in-2025",
+    "title": "Satellite sea surface temperature and chlorophyll-a in the Northeast Pacific",
+    "section": "Chl-a and SST in 2025",
+    "text": "Chl-a and SST in 2025\n\n\n\n\n\n\n2025Long-term average\n\n\n\n\n\n\n\n\n\n\n\n\nMonthly summaries and anomalies\nBelow, are monthly averages of chlorophyll-a (Chl-a) and sea surface temperature (SST) by region (left), and their anomalies compared to baseline monthly conditions (right).\nIn 2025, many regions had higher than normal Chl-a. For GHE and SRN, this was during April and May, while in GHO and GHW, during July and August. SST was generally warmer than normal, except in February in more southern regions, in June, and in many regions during July.\n\n\n\n\n\n\nNote on Chl-a anomalies\n\n\n\n\n\n🔎 For Chl-a, which has a log-normal distribution in the ocean (Campbell 1995), the anomaly was calculated as the anomaly ratio (as in Wang et al. 2021).\n\nHere, a value of 0.1, for example, indicates Chl-a was 10% higher than normal, and -0.2 is 20% lower than normal.\nRather than calculating the anomaly as the baseline subtracted from the Chl-a value, which under-estimates year to year differences in Chl-a for lower productivity months or regions, the difference is also divided by the baseline. This method emphasizes the proportionate differences, which is more suitable for Chl-a, since biomass is so dynamic and increases rapidly during blooms.\n\n📡Late fall and winter data, from November until early February, are also removed from the Chl-a dataset (indicated in grey shading in the figures). The low sun angle during this time of year causes more data loss and inaccuracy in optical satellite Chl-a measurements.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnnual summaries and anomalies\nWhen averaged annually, overall changes in Chl-a and SST from year-to-year become more evident. Regional Chl-a shows the phytoplankton biomass differences between the offshore regions (SK-B and TḥT), which have low biomass, compared to the remaining regions mainly located on the shelf. GHE and BC6 have the highest phytoplankton biomass overall.\nSST shows the impact of “the Blob” Marine Heatwave event that began in 2014 and ended in 2016. This event had widespread negative effects on Northeast Pacific ecosystems, from phytoplankton to whales and sea lions. Over half of Alaska’s common murres died during this event (Renner et al. 2024), there were widespread hamful algae blooms (Zhu et al. 2017), and record numbers of sea lions were starved and stranded.\n\n\n\n\n\nChl-a and SST anomalies, where a given value is compared to its long-term average, differ more greatly from one another. SSTs, since late 2013, have largely been comparable to, or higher than, their long-term average. SST is typically closely related to El Niño–Southern Oscillation (ENSO), a natural climate phenomenon where winds and SSTs cyclically vary in the tropical Pacific. In the Northeast Pacific, El Niño years tend to be warmer than normal, while La Niña years tend to be cooler and wetter. However, in recent years, the cooling effects of La Niña have been less significant.\n\n\n\n\n\n\n\nFurther reading\nWe provide summaries of SST and Chl-a at the annual State of the Pacific Ocean (SOPO) meeting and published as a series of technical reports. The most recent SOPO meeting was held in March, 2026, with a technical report to be published in the coming months. For broader reading about the State of the Canada’s Oceans, check out the Canada’s Oceans Now report. 🌊🐟\nRecent SOPO publications:\n\nBoldt, J.L., Joyce, E., Tucker, S., Gauthier, S., and Jackson, J. (Eds.). 2025. State of the physical, biological and selected fishery resources of Pacific Canadian marine ecosystems in 2024. Can. Tech. Rep. Fish. Aquat. Sci. 3687: viii + 337 p. https://doi.org/10.60825/hxdg-q818\nBoldt, J.L., Joyce, E., Tucker, S., Gauthier, S., and Dosser, H. (Eds.). 2024. State of the physical, biological and selected fishery resources of Pacific Canadian marine ecosystems in 2023. Can. Tech. Rep. Fish. Aquat. Sci. 3598: viii + 315 p."
   },
   {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "Satellite Monitoring in the Northeast Pacific",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "scott_islands.html",
+    "href": "scott_islands.html",
+    "title": "Scott Islands marine National Wildlife Area",
+    "section": "",
+    "text": "Tufted puffin, Fratercula cirrhata. Image from Wikimedia Commons, license CC BY SA 2.0.\n\n\n\n Common murre, Uria aalge. Image from Wikimedia Commons.\n\n\n\n Cassin’s auklet, Ptychoramphus aleuticus. Image from Wikimedia Commons.\n\n\n\n Rhinoceros auklet, Cerorhinca monocerata. Image from Wikimedia Commons.\n\n\nThe Scott Islands marine National Wildlife Area conserves a marine area that supports millions of seabirds on the Pacific coast of BC.\n\n\n\n\n\n\nFurther reading\n\n\n\n\n\n\nCPAWS BC: Securing a Seabird Sancturary: Scott Islands marine National Wildlife Area\nImportant Bird Areas Canada: Scott Island Group\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "sponge_reefs.html",
+    "href": "sponge_reefs.html",
+    "title": "Hecate Strait/Queen Charlotte Sound Glass Sponge Reefs MPA",
+    "section": "",
+    "text": "The Hecate Strait/Queen Charlotte Sound Glass Sponge Reefs MPA (also referred to as “Sponge Reefs MPA”) is located between Haida Gwaii and the BC mainland. It is divided into three sub-regions, each of which have a core protection zone, and outer adaptive management zone.\n\n\n\n\n\n\nFurther reading\n\n\n\n\n\n\nHecate Strait/Queen Charlotte Sound Glass Sponge Reefs Marine Protected Area (MPA) annual report 2023 (pdf)\n\n\n\n\n\n\n\n Back to top"
   }
 ]

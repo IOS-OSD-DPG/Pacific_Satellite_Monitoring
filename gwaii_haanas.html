@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -184,8 +204,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><a href="https://parks.canada.ca/pn-np/bc/gwaiihaanas/nature/environnement-environment/marins-marine"><strong>Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site</strong></a> (also referred to as <strong>“Gwaii Haanas”</strong>) is a ….</p>
-<p>Gwaii Haanas is divided into three subregions for satellite monitoring, Gwaii Haanas East (GHE), West (GHW) and South (GHS).</p>
+<p><a href="https://parks.canada.ca/pn-np/bc/gwaiihaanas/nature/environnement-environment/marins-marine"><strong>Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site</strong></a> (also referred to as <strong>“Gwaii Haanas”</strong>) is a protected area that spans 5000 square kilometres of land and sea at the southern end of the Haida Gwaii archipelago.</p>
+<p>Gwaii Haanas is divided into three subregions for satellite oceanographic monitoring, Gwaii Haanas East (<strong>GHE</strong>), West (<strong>GHW</strong>) and South (<strong>GHS</strong>). Additionally, monitoring metrics are being developed for Gwaii Haanas and its context in the larger oceanography of BC shelf waters. Further metrics are in progress for the Haida Gwaii marine shelf region (<strong>HGSh</strong>), the Northern Shelf Bioregion (<strong>NSB</strong>), and stations in G̲andaawuu.ngaay Xyangs (<strong>G̲X</strong>, <em>Juan Perez Sound</em>). G̱andaawuu.ngaay Xyangs, particularly in regard to oxygen, has unique oceanographic properties in context with the larger Gwaii Haanas area and fjords of the BC coast <span class="citation" data-cites="jackson2025">(see <a href="#ref-jackson2025" role="doc-biblioref">Jackson et al. 2025</a>)</span>.</p>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -198,10 +218,24 @@ Click here to view subregions map
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
+<div class="columns">
+<div class="column" style="width:40%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="./figures/GH_regions_map.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:20.0%"></p>
+<p><img src="./figures/GH_regions_map.png" class="img-fluid figure-img"></p>
+<figcaption>GHW, GHS and GHE subregions of Gwaii Haanas used for satellite monitoring. Sea surface temperature is similar between the regions, though GHE is slightly warmer, with higher phytoplankton biomass at the surface and at depth, with a significant chlorophyll-a maxima observed in many summer chl-a fluorescence profiles.</figcaption>
 </figure>
+</div>
+</div><div class="column" style="width:10%;">
+
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./figures/HG_Metrics_Regions.png" class="img-fluid figure-img"></p>
+<figcaption>The three subregions in the larger context of the HGSh, the NSB, and the Canadian Pacific EEZ. The approximate location of long-term monitoring stations in G̲andaawuu.ngaay Xyangs (<strong>G̲X</strong>) are also indicated, where continuous monitoring with moorings and annual sampling trips has been ongoing since 2017.</figcaption>
+</figure>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -226,17 +260,25 @@ Further reading
 </div>
 <section id="gwaii-haanas-east" class="level2">
 <h2 class="anchored" data-anchor-id="gwaii-haanas-east">Gwaii Haanas East</h2>
+<p>figs</p>
 </section>
 <section id="gwaii-haanas-west" class="level2">
 <h2 class="anchored" data-anchor-id="gwaii-haanas-west">Gwaii Haanas West</h2>
+<p>figs</p>
 </section>
 <section id="gwaii-haanas-south" class="level2">
 <h2 class="anchored" data-anchor-id="gwaii-haanas-south">Gwaii Haanas South</h2>
+<p>figs</p>
+
 
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-jackson2025" class="csl-entry" role="listitem">
+Jackson, Jennifer, Alex Hare, Charles Hannah, Andrea Hilborn, Skil Jáada Vanessa Zahner, Stephen Page, Sarah Rosen, Amanda Timmerman, and Lynn Lee. 2025. <span>“<span class="nocase">Why Deep-Water Dissolved Oxygen Is Higher in G̱andaawuu.ngaay Xyangs (Juan Perez Sound), Haida Gwaii, Than Other British Columbia Fjords</span>.”</span> <em>Journal of Geophysical Research: Oceans</em>, no. 130. <a href="https://doi.org/10.1029/2024JC021826">https://doi.org/10.1029/2024JC021826</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
